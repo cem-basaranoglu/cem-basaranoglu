@@ -1,5 +1,6 @@
-
-![](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif"/>
+ </p>
 ### About Me:
 - 🏦 I am a software craftsman who love design and develop distributed, scalable, reliable and robust systems. 
 - 📝 I regulary write technical articles on [medium](https://cem-basaranoglu.medium.com/)
